@@ -2,6 +2,8 @@
 
 Python for Beginners - Course Code | Tech With Mala
 
+🎥 **Full Course:** https://youtu.be/Oz6nU0FQKzQ
+
 This repository contains the Python code used throughout the **Python for Beginners** course.
 
 ## Course Sections
